@@ -1,3 +1,8 @@
+---
+title: "PlayStation 1 LibCrypt Protection (Old)"
+---
+
+
 Note: This guide is outdated, please see
 [here](http://wiki.redump.org/index.php?title=CD_Dumping_Guide_\(Disc_Image_Creator\)).
 

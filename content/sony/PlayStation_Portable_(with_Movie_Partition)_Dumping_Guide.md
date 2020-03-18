@@ -1,3 +1,7 @@
+---
+title: "PlayStation Portable UMD Discs"
+---
+
 This guide is for dumping UMD discs with movie partitions. Known discs
 include Stealth movie with WipeOut Pure demo, and "Demo Disc for PSP
 Vol. 1". For dumping UMD games without a movie partition (MOST), please

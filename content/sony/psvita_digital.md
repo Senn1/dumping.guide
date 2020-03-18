@@ -1,3 +1,6 @@
+---
+title: "PlayStation Vita Digital"
+---
 
 ## About PS Vita Digital Software from Playstation Network
 

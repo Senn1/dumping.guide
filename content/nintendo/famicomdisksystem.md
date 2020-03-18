@@ -1,3 +1,8 @@
+---
+title: "Famicom Disk System"
+---
+
+
 # Table of Contents
 - [Famicom Disk System Dumping Guide](#famicom-disk-system-dumping-guide)
   * [Tools](#tools)

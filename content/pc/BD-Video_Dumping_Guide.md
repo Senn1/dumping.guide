@@ -1,3 +1,7 @@
+---
+title: "Blu-Ray Video"
+---
+
 Note: This guide is only for dumping Blu-Ray Video discs, NOT Blu-Ray
 console discs (see [Dumping Guides](Dumping_Guides "wikilink")).
 

@@ -1,3 +1,7 @@
+---
+title: "Game Boy Advance"
+---
+
 
 # Table of Contents
 - [*Game Boy Advance* Dumping Guide](#-game-boy-advance--dumping-guide)

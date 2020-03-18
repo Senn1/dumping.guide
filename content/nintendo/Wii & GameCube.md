@@ -1,3 +1,7 @@
+---
+title: "Gamecube and Wii"
+---
+
 This is a GameCube and Wii dumping guide using the Nintendo Wii. In
 addition, Wii games can also be dumped with a modded Wii U.
 

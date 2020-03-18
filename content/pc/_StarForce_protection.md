@@ -1,3 +1,7 @@
+---
+title: "SecuROM and StarForce"
+---
+
 This guide will help you understand, identify and properly dump
 **SecuROM** and **StarForce** protected discs.
 

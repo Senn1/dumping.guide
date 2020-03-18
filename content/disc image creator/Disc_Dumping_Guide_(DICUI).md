@@ -1,3 +1,7 @@
+---
+title: "Disc Dumping (DiscImageCreator UI version)"
+---
+
 **This dumping guide is for:**
 
   - Any CD format, including (but not limited to): console games, Audio

@@ -1,3 +1,7 @@
+---
+title: "Game Boy Color"
+---
+
 
 # Table of Contents
 - [Transfer Pack Method](#transfer-pack-method)

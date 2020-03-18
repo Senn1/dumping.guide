@@ -1,3 +1,7 @@
+---
+title: "Nintendo WiiU"
+---
+
 This guide is an early work in progress.
 
 ## Tools

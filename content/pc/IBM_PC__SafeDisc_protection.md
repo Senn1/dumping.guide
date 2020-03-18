@@ -1,3 +1,7 @@
+---
+title: "PC SafeDisc"
+---
+
 This guide will help you understand, identify and properly dump
 **SafeDisc** protected games.
 

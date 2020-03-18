@@ -1,3 +1,7 @@
+---
+title: "Nintendo Entertainment System"
+---
+
 
 # Table of Contents
 - [TapeDump Method](#tapedump-method)

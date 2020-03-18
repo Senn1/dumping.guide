@@ -1,3 +1,6 @@
+---
+title: "Nintendo WiiU Digital"
+---
 
 # Table of Contents
 - [Dumping Tickets/Keys](#dumping-tickets-keys)

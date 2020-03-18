@@ -1,3 +1,7 @@
+---
+title: "Disc Dumping (DiscImageCreator UI version, Español)"
+---
+
 De ahora en adelante, entenderemos el término "dumping" como el proceso
 de realizar una copia digital a nuestro disco y obtener todos los datos
 referentes al proceso y el resultado del mismo, mediante el empleo de

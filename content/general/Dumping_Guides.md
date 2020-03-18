@@ -1,3 +1,7 @@
+---
+title: "Dumping Guides"
+---
+
 For systems not listed here please visit the forum in the General
 Discussion category.
 

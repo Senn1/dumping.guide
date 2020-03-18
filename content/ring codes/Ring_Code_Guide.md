@@ -1,3 +1,7 @@
+---
+title: "Ring Code"
+---
+
 When submitting dumps to Redump it is important to submit all **Ring
 Codes** that you can see. Ring codes that are too difficult to read are
 not required, but for the sake of completion, do your best. If you want

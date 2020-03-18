@@ -1,3 +1,7 @@
+---
+title: "PlayStation Portable"
+---
+
 This guide is for dumping PlayStation Portable games, alternately if
 your disc has a movie partition as well follow [this
 guide](PlayStation_Portable_\(with_Movie_Partition\)_Dumping_Guide "wikilink")

@@ -1,3 +1,7 @@
+---
+title: "Nintendo DSi Digital"
+---
+
 # Nintendo DSi Digital Software Dumping Guide
 
 ## Dumping Tickets from Console (Optimal)

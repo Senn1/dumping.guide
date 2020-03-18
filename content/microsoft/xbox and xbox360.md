@@ -1,3 +1,7 @@
+---
+title: "Xbox and Xbox 360"
+---
+
 This is a dumping guide for the **original Xbox** and **Xbox 360**
 systems.
 

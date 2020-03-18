@@ -1,3 +1,7 @@
+---
+title: "DiscImageCreator Disc Drive Compatibility (Español)"
+---
+
 DiscImageCreator (DIC) es una herramienta destinada al "dumping" de
 discos, que trata de centrarse en ejecutar una copia perfecta de la
 fuente original en formato digital. Por ello, se da la circunstancia de

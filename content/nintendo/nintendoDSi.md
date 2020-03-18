@@ -1,3 +1,6 @@
+---
+title: "Nintendo DSi"
+---
 
 # Table of Contents
 - [*Nintendo DS(i)* Dumping Guide](#-nintendo-ds-i---dumping-guide)

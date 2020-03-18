@@ -1,3 +1,7 @@
+---
+title: "Nintendo 64"
+---
+
 
 # Table of Contents
 - [*GameShark Pro* / *Action Replay Pro*](#-gameshark-pro-----action-replay-pro-)

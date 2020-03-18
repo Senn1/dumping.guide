@@ -1,3 +1,7 @@
+---
+title: "CD (DiscImageCreator Command Line Interface version)"
+---
+
 **Note: This guide is for the Command Line Interface version of Disc
 Image Creator, if you have no idea what that means, please use the GUI
 version (as it's much simpler): [Disc Dumping Guide

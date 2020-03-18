@@ -1,3 +1,6 @@
+---
+title: "PlayStation Vita"
+---
 
 # Table of Contents
 - [PSVgameSD + PSVStrip Method](#psvgamesd---psvstrip-method)

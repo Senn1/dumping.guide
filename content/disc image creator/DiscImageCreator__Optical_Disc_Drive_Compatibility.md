@@ -1,3 +1,7 @@
+---
+title: "DiscImageCreator Disc Drive Compatibility"
+---
+
 DiscImageCreator (DIC) is an a disc dumping app focusing on perfect disc
 dumping only. Some formats require certain drive models to dump
 perfectly.

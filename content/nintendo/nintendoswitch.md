@@ -1,3 +1,7 @@
+---
+title: "Nintendo Switch"
+---
+
 # Table of Contents
 - [NXDumpTool](#nxdumptool)
   * [Requirements](#requirements)

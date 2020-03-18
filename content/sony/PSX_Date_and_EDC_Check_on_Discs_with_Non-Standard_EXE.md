@@ -1,3 +1,7 @@
+---
+title: "PSX Discs with Non-Standard EXE"
+---
+
 Some PSX discs such as LightSpan and GameShark have irregular
 executables on the disc that require an alternate way to determine Exe
 Date and EDC status.

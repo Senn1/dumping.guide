@@ -1,3 +1,7 @@
+---
+title: "Nintendo GC and Nintendo Wii Dev Discs"
+---
+
 This guide is for dumping Nintendo GC and Nintendo Wii dev discs. For
 dumping retail discs, go here: [Nintendo GameCube / Wii Dumping
 Guide](Nintendo_GameCube_/_Wii_Dumping_Guide "wikilink").

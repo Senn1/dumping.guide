@@ -1,3 +1,7 @@
+---
+title: "Temporary Wiki page"
+---
+
 **Testing GD-ROM and LaserLock (WIP\!)** The following ODDs lights up
 and/or starts to spin after using eject pin hole:
 

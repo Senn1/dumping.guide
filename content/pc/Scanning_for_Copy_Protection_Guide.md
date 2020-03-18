@@ -1,3 +1,7 @@
+---
+title: "Scanning for Copy Protection"
+---
+
 This guide is for scanning your disc to identify which type of copy
 protection it is using. Once identified, you [know what command to use
 when

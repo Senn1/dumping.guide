@@ -1,3 +1,7 @@
+---
+title: "GD-Rom (Normal method)"
+---
+
 This is a step-by-step guide designed to be easy to follow so that you
 can make reproducible, good dumps of your GD-ROMs to the Redump
 standard. We have been unsuccessful getting GD-R's to dump with the

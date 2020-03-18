@@ -1,3 +1,6 @@
+---
+title: "Nintendo 3DS Digital"
+---
 
 # Table of Contents
 - [Use ctrcdnfetch (Recommended)](#use-ctrcdnfetch--recommended-)

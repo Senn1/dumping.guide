@@ -1,3 +1,7 @@
+---
+title: "SafeDisc and SmartE"
+---
+
 This guide will help you understand, identify and properly dump
 **SafeDisc** and **SmartE** protected discs.
 

@@ -1,3 +1,7 @@
+---
+title: "Playstation 3"
+---
+
 Dumping guide for PS3 discs. For the forum discussion topic on PS3
 dumping please
 see[1](http://forum.redump.org/topic/12699/ps3-dumping-instructions/)[2](http://forum.redump.org/topic/7656/ps3-dumping/).

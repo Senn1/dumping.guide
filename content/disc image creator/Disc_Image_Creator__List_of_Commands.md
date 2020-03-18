@@ -1,3 +1,7 @@
+---
+title: "DiscImageCreator List of Commands"
+---
+
 ## Usage
 
 `       cd `<DriveLetter>` `<Filename>` <DriveSpeed(0-72)> [/q] [/a (val)]`

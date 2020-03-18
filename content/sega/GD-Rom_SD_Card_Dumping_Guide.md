@@ -1,3 +1,7 @@
+---
+title: "GD-Rom (SD Card method)"
+---
+
 Ideally you'll dump with the [GD-Rom Dumping
 Guide](GD-Rom_Dumping_Guide "wikilink"), however some GD-Roms will NOT
 work with that method and require dumping the HD area with an **SD

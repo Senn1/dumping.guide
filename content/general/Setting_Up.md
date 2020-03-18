@@ -1,3 +1,7 @@
+---
+title: "Setting Up"
+---
+
 Before we start dumping we must first setup our tools properly.
 
 ## IsoBuster

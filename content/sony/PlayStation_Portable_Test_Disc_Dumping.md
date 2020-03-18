@@ -1,3 +1,7 @@
+---
+title: "PlayStation Portable Test Disc"
+---
+
 Most PSP test discs should dump fine with the [standard dumping
 guide](PlayStation_Portable_Dumping_Guide "wikilink"). However many
 silver UMD Test discs titled UMDT-99813 exist which require a special

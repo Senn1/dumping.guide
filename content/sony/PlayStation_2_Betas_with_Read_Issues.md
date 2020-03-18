@@ -1,3 +1,7 @@
+---
+title: "PlayStation 2 Betas with Read Issues"
+---
+
 Some PlayStation 2 DVD-Rom betas will not read properly in some disc
 drives. While it may be because they are scratched, sometimes these
 discs actually just need to be read by the same drive they were burned

@@ -1,3 +1,6 @@
+---
+title: "Nintendo Switch Digital"
+---
 
 # Table of Contents
 - [From installed title (NXDumpTool)](#from-installed-title--nxdumptool-)
